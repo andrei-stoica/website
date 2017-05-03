@@ -25,6 +25,6 @@ Getting Stuff Done
 
 [School](https://www.uoit.ca) 
 -----------------------------
-| [MyCampus](uoit.ca/mycampus/)
-| [Blackboard](uoit.blackboard.com)
+| [MyCampus](https://uoit.ca/mycampus/)
+| [Blackboard](https://uoit.blackboard.com)
 |
