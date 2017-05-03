@@ -6,7 +6,6 @@ author = "Andrei Stoica"
 copyright = "© Copyright 2017 Andrei Stoica"
 
 [Params]
-	description = "Describe your website"
 	email = "andrei.stoica.365@gmail.com"
 	github = "skaterdude97"
 	linkedin = "andrei-stoica"
