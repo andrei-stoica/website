@@ -31,6 +31,14 @@ Computer Skils
 	- Android Studio
 	- MS Visio
 
+Work Experience															<sub><sup>*2017-present*</sup></sub>
+--------------------
+* **Teaching Assistant**
+*University of Ontario Institute of Technology (UOIT), Oshawa, ON* 
+	- Lead students on in-class activities
+	- Corrected student work and provided feedback for improvement
+	
+
 Volunteer Experience												<sub><sup>*2013-2014*</sup></sub>  
 --------------------
 
