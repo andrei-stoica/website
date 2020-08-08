@@ -17,7 +17,7 @@ Work Experience
 --------------------
 * **Teaching Assistant**
 *University of Ontario Institute of Technology (UOIT), Oshawa, ON* 
-<sup>{{< date "Sept. 2017 - Apr. 2018; Sept 2018 - Present" >}}</sup>
+<sup>{{< date "Sept. 2017 - May 2020" >}}</sup>
 	- Lead classes of 20-25 junior and senior level undergraduate
 		students on in-class activities
 	- Corrected student work and provided feedback for improvement
@@ -33,7 +33,7 @@ Work Experience
 
 * **Graduate Research Assistant**
 *University of Ontario Institute of Technology (UOIT), Oshawa, ON* 
-<sup>{{< date "May 2018 - Aug. 2018" >}}</sup>
+<sup>{{< date "Aug. 2018 - Present" >}}</sup>
 	- Lead the research on text mining and natural language processing
 	queries in relational databases
 	- Topics and Technologies used: PostgreSQL, topic modeling, NLP,

@@ -1,6 +1,6 @@
 +++
 
-date = "2019-01-07T15:32:55-05:00"
+date = "2020-08-008T15:32:55-05:00"
 title = "Welcome"
 
 +++
@@ -13,9 +13,8 @@ science. I will be updating the blog portion of this site as I discover new
 interesting technologies. 
 
 I am currently pursuing a Masters in Computer Science, supervised by 
-[Dr Ken Pu](http://db.science.uoit.ca/). My work will focus on automatic topic
-discovery and understanding of text data. This will provide a large part of
-the posts made here in the future.
+[Dr Ken Pu](http://db.science.uoit.ca/). My work focuses on text mining and
+natural language processing queries in relational databases.
 
 This site also host my resume and links to my profiles on other platforms.
 
