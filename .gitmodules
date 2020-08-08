@@ -1,7 +1,7 @@
 [submodule "themes/light-hugo"]
 	path = themes/light-hugo
 	url = git@github.com:tblyler/light-hugo.git
+
 [submodule "public"]
 	path = public
-	url = git@github.com:skaterdude97/skaterdude97.github.io.git
-	branch = master
+	url = git@github.com:andrei-stoica/andrei-stoica.github.io.git

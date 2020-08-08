@@ -42,7 +42,6 @@ Work Experience
 Software Development Experience
 --------------
 *	**Programing**
-
 {{< shortlist >}}
 		Python
 	- Java 
@@ -96,13 +95,14 @@ Software Development Experience
 
 Project Experience
 ------------------
-* NLP Relational Queries And Its Applications - *Thesis Project*
+* **NLP Relational Queries And Its Applications** - *Thesis Project*
 	- Developed LDA extension to PostgreSQL to allow Topic Modeling of
 		text columns inside of SQL
 	- Created a web front end to visualize the change in topics over time for
 		academic authors and venues
 	- Published 2020 IEEE International Conference on Information Reuse
 		and Integration for Data Science
+
 	Technologies: 
 	{{< shortlist >}}
 			Python 
@@ -114,7 +114,7 @@ Project Experience
 	{{< /shortlist >}}
 
 
-* Scalable Analysis of Open Data Graphs
+* **Scalable Analysis of Open Data Graphs**
 	- Performed analysis of similarities between documents through
 		Canada’s Open Data portal
 	- Provided insight into organization and connectedness of Canada’s
@@ -123,6 +123,7 @@ Project Experience
 		scaling with time
 	- Published and Presented at 2019 IEEE International Conference on
 		Information Reuse and Integration for Data Science
+	
 	Technologies:
 	{{< shortlist >}}
 			Python
@@ -135,11 +136,12 @@ Project Experience
 	{{< /shortlist >}}
 
 
-* Canadian Political Twitter Analysis
+* **Canadian Political Twitter Analysis**
 	- Built tools to track and analyse the conversation surrounding
 		Canadian politics on Twitter
 	- Tracked key figures and CDNPoli hashtag and predicted standings in
 		2019 election
+
 	Technologies:
 	{{< shortlist >}}
 			Python
