@@ -7,93 +7,153 @@ title = "Resume"
 Education
 ---------
 * **Bachelor of Science - Computer Science**,				{{< date "2018" >}}
-<br>*University of Ontario Institute of Technology (UOIT), Oshawa, ON* 
+<br>*Ontario Tech University, Oshawa, ON* 
 
 * **Master of Science - Computer Science**,
 	{{< date "Expected Completion 2020" >}}
-<br>*University of Ontario Institute of Technology (UOIT), Oshawa, ON*
+<br>*Ontario Tech University, Oshawa, ON*
 
 Work Experience		
 --------------------
 * **Teaching Assistant**
 *University of Ontario Institute of Technology (UOIT), Oshawa, ON* 
 <sup>{{< date "Sept. 2017 - Apr. 2018; Sept 2018 - Present" >}}</sup>
-	- Lead students on in-class activities
+	- Lead classes of 20-25 junior and senior level undergraduate
+		students on in-class activities
 	- Corrected student work and provided feedback for improvement
 	- Courses:
 	{{< shortlist >}}
-			Mobile Devices
+		  Mobile Devices
 		- Programing Workshop
 		- System Development and Integration
+		- Web Development
+		- Interactive Media
+		- Compilers
 	{{< /shortlist >}}
 
-* **Research Assistant**
+* **Graduate Research Assistant**
 *University of Ontario Institute of Technology (UOIT), Oshawa, ON* 
 <sup>{{< date "May 2018 - Aug. 2018" >}}</sup>
-	- Worked toward developing a framework for classifying text data
-	- created a neural network that can classifies Computer Science terms
+	- Lead the research on text mining and natural language processing
+	queries in relational databases
+	- Topics and Technologies used: PostgreSQL, topic modeling, NLP,
+	Python, web services
 
 Software Development Experience
 --------------
-* Multiple Operating Systems - Linux and Windows experience in both school
-	work and personal life
-*	**Programing languages and Frameworks**
+*	**Programing**
 
 {{< shortlist >}}
-	  Java and JavaFX Library
-	- Kotlin and Anko Library
-	- Assembly
-	- C/C++
-	- Python
-	- Tensorflow
-	- Numpy
+		Python
+	- Java 
 	- Clojure and ClojureScript
-	- Javascript
-	- Node.js
-	- HTML
-	- CSS
+	- C/C++
+	- Kotlin
+	- Scala
 {{< /shortlist >}}
 
-* **Software Design and Development tools**
-
+* **Data Science**
 {{< shortlist >}}
-	  Unified Modeling Language
-	- Git
-	- Visual Studio
-	- Eclipse
-	- Android Studio
-	- MS Visio
+		Numpy
+	- Scipy
+	- NLTK
+	- Gensim
+	- Pandas
+	- Ipython Notebooks
 {{< /shortlist >}}
+
+* **Database**
+{{< shortlist >}}
+		PostgreSQL
+	- MongoDB
+{{< /shortlist >}}
+
+* **Web Serices**
+{{< shortlist >}}
+		Flask
+	- NodeJS
+{{< /shortlist >}}
+
+* **Web Frontend**
+{{< shortlist >}}
+		HTML
+	- CSS
+	- ClojureScript
+	- JavaScript
+	- Reagent
+	- React
+	- JQuery
+{{< /shortlist >}}
+
+* **ML/AI**
+{{< shortlist >}}
+		Tensorflow
+	- scikit-learn
+	- word2vec
+	- fasttext
+{{< /shortlist >}}
+
 
 Project Experience
 ------------------
+* NLP Relational Queries And Its Applications - *Thesis Project*
+	- Developed LDA extension to PostgreSQL to allow Topic Modeling of
+		text columns inside of SQL
+	- Created a web front end to visualize the change in topics over time for
+		academic authors and venues
+	- Published 2020 IEEE International Conference on Information Reuse
+		and Integration for Data Science
+	Technologies: 
+	{{< shortlist >}}
+			Python 
+		- SQL/PostgreSQL 
+		- Flask
+		- HTML
+		- CSS
+		- D3.js
+	{{< /shortlist >}}
 
-* **Vigenère Cipher**,												{{< date "April, 2016" >}}
-	- Created a program that encrypts a user provided string using a user 
-		provided key, and can decrypt a ciphertext using a user provided key 
-		using assembly language
 
-* **[Java File Server](github.com/andrei-stoica/csci2020u-TeamHypeFileSharing)**,
-																							{{< date "April, 2016" >}}
-	- Programed a server and a client that used to upload files to the server 
-		and retrieve them using Java.
+* Scalable Analysis of Open Data Graphs
+	- Performed analysis of similarities between documents through
+		Canada’s Open Data portal
+	- Provided insight into organization and connectedness of Canada’s
+		Open Data
+	- Scalable and Distributed code base to allow for large dataset and
+		scaling with time
+	- Published and Presented at 2019 IEEE International Conference on
+		Information Reuse and Integration for Data Science
+	Technologies:
+	{{< shortlist >}}
+			Python
+		- SQL/PostgreSQL
+		- Apache
+		- Spark/PySpark
+		- Matplotlib
+		- GCP Storage
+		- GCP Dataproc
+	{{< /shortlist >}}
 
-* **[AVL Tree](github.com/andrei-stoica/CSCI-2010U_Assignment3_AVL_trees)**,
-																							{{< date "December, 2015" >}}
-	- Created a program that processes a stream of integers and stores them in an 
-		AVL tree, then print a graph of the tree and traverse it to find a specific 
-		number using Java
 
-* **Falling Object Simulation**,							{{< date "November, 2014" >}}
-	- Programed a simulation of the motion of an object that is a connected to 
-		a bungee cord through the air using C++.
+* Canadian Political Twitter Analysis
+	- Built tools to track and analyse the conversation surrounding
+		Canadian politics on Twitter
+	- Tracked key figures and CDNPoli hashtag and predicted standings in
+		2019 election
+	Technologies:
+	{{< shortlist >}}
+			Python
+		- Tensorflow
+		- SQL/PostgreSQL
+		- Matplotlib
+	{{< /shortlist >}}
+
 
 Hobbies
 -------
-* Build computers for others, source and consult on components required, 
-	install and teach then to install themselves troubleshoot software issues;
-	fix problems and after suggestion on avoiding future problems
-* Set up printers; wired and wireless configuration
-* Maintain a home media and storage server for family running the latest 
-  Ubuntu LTS
-* FOSS enthusiast
+
+* Free and open source software enthusiast
+* Maintain a home media and storage server for family running the latest
+	Ubuntu LTS
+* Build computers for others, source and consult on components required,
+	install and teach them to install themselves
