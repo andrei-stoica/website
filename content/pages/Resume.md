@@ -4,6 +4,8 @@ title = "Resume"
 
 +++
 
+Printable single page version [here](/andrei-stoica-resume.pdf)
+
 Education
 ---------
 * **Bachelor of Science - Computer Science**,				{{< date "2018" >}}
@@ -150,6 +152,16 @@ Project Experience
 		- Matplotlib
 	{{< /shortlist >}}
 
+Publications
+------------
+
+* Stoica, A., K. Pu, and H. Davoudi (2020).  “NLP Relational Queries And Its
+	Applications”. In: 2020 IEEE 21th International Conference on Information
+	Reuse and Integration for Data Science (IRI).
+
+* Stoica, A., M. Valdron, and K. Pu (2019).  “Scalable Analysis of Open Data
+	Graphs”.  In: 2019 IEEE 20th International Conference on Information Reuse and
+	Integration for Data Science (IRI), pp. 334–341. DOI: 10.1109/IRI.2019.00059.
 
 Hobbies
 -------
